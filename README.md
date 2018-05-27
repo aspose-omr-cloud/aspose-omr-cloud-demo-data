@@ -1,7 +1,3 @@
-<img src="TestData/Demonstration/OmrBanner.png">
-
-
-
 # Aspose.OMR for Cloud
 
 [Aspose.OMR for Cloud](https://products.aspose.cloud/omr/cloud) is a REST API that helps you to perform optical mark recognition in the cloud.
