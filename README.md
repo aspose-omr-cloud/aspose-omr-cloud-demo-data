@@ -7,7 +7,7 @@ Developers can embed optical recognition in any type of application to extract d
 
 ## Contents
 
-The repository contains data and configuration file that are used in OMR SDK's demo projects. Each platform SDK has such simple project that demonstrates main Aspose.OMR functionality.
+The repository contains data and configuration file that are used in OMR SDK's demo projects. Each platform SDK has such simple project that demonstrates main Aspose.OMR functionality. This repository is meant to be used as a **submodule** for SDK repositories.
 
 ## Installation
 - Create your personal configuration file by copying [test_config_sample.json](https://github.com/aspose-omr-cloud/aspose-omr-cloud-demo-data/blob/master/test_config_sample.json "test_config_sample.json")  file under the name **test_config.json.**
