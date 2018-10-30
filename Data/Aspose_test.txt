@@ -1,4 +1,4 @@
-?image=LogoImage1.jpg
+?image=logo1.jpg
 	align=left
 
 ?text=Name__________________________________              Date____________
@@ -31,7 +31,7 @@
 
 ?text=Sign________________________________
 
-?image=LogoImage2.png
+?image=logo2.png
 	align=right
 ?barcode=Student_ID
 	value=5901234123457
